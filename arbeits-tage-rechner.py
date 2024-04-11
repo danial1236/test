@@ -11,6 +11,7 @@ class Arbeitszeitrechner:
         # Schriftart erstellen
         self.custom_font = tkfont.Font(size=30)
 
+        ################ das ist nur ein test für github danach kann man einfach diese linie ignorieren!#####################
         self.create_widgets()
 
     def create_widgets(self):
